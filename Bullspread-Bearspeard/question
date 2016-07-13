@@ -1,0 +1,4 @@
+Add the ability to price bull spreads and bear spreads by introducing new subclasses BullSpread and BearSpread of EurOption class 
+defined in Options06.h. 
+
+Use the new classes, making suitable changes in Main10.cpp to price European bull and bear spreads.
