@@ -1,0 +1,3 @@
+Add further payoffs, namely, strangle, and butterfly spreads, by means of subclasses of the EuroOption class placed in separate files, 
+without changing anything in existing code, except for the necessary changes in Main11.cpp, to price options with the newly 
+introduced payoffs.
